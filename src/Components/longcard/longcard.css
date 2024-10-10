@@ -1,0 +1,28 @@
+.label-content-icons   { font-size: 17px;
+    font-weight: 600;
+    color: gray;
+    margin: 10px;
+
+}
+
+    .value-content{
+        font-size: 18px;
+        font-weight: 550;
+    }
+
+    .status-chip{
+        padding: 20px !important;
+        font-size: 18px !important;
+        font-weight: 550 !important; 
+        color: red !important;
+        background: #ff00001f !important;
+        margin: 5px !important;
+        /* position: absolute; */
+        bottom: 5px;
+        align-self: flex-end;
+        position: relative;
+        top: 25px;
+        left: 17px;
+
+    
+    }
